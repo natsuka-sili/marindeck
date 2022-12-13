@@ -1,0 +1,103 @@
+.tweet > .tweet-footer {
+    display: none !important;
+}
+  
+.js-stream-item-content.item-box.js-show-detail {
+    padding-top: 1px !important;
+    padding-bottom: 0px !important;
+}
+  
+.avatar,
+.compose-account,
+.prf-img,
+.tweet-avatar {
+    border-radius: 10% !important
+}
+  
+html.dark .avatar {
+    height: 30px !important;
+    width: 30px !important;
+}
+  
+.tweet-text, .js-quoted-tweet-text {
+    white-space: inherit !important;
+    margin-top: -2px !important;
+}
+  
+.r-18u37iz {
+    height: 40px;
+    margin-top: -8px !important;
+}
+  
+.r-18u37iz > .r-16y2uox > a > div > div > div {
+    text-overflow: clip !important;
+}
+  
+.r-18u37iz > .r-16y2uox > a {
+    margin-top: 20px;
+}
+  
+.r-1j63xyz:not(.r-18u37iz) {
+    margin-top: -8px !important;
+}
+  
+.r-1j63xyz:not(.r-18u37iz) > div {
+    height: 20px;
+}
+  
+.r-1j63xyz:not(.r-18u37iz) > .css-1dbjc4n:not(.r-uvzvve):not(.r-rull8r):not(.r-qklmqi) > a {
+    margin-top: 11px;
+}
+  
+.r-1j63xyz:not(.r-18u37iz) > .css-1dbjc4n:not(.r-uvzvve):not(.r-rull8r):not(.r-qklmqi) > a > div > div > div {
+    -webkit-line-clamp: 1 !important;
+}
+  
+.js-media-image-link.block.med-link.media-item.media-size-medium.is-zoomable {
+    height: 40px;
+    margin-top: -8px;
+}
+  
+.js-media.media-preview.media-grid-container.media-size-medium.margin-vm {
+    height: fit-content;
+    margin-top: -0px !important;
+    margin-bottom: -0px !important;
+}
+  
+.js-media.media-preview.media-grid-container.media-size-medium.margin-vm > .media-grid-2 {
+    height: 40px;
+}
+  
+.js-media.media-preview.media-grid-container.media-size-medium.margin-vm > .media-grid-3 {
+    height: 80px;
+}
+  
+.js-media.media-preview.media-grid-container.media-size-medium.margin-vm > .media-grid-4 {
+    height: 80px;
+}
+  
+html.dark .margin-b--8 {
+    margin-top: 1px !important;
+    margin-bottom: 1px !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+  
+.margin-t--4.margin-b---3.txt-mute {
+    display: none !important;
+}
+  
+.margin-t--5 {
+    display: none;
+}
+  
+html.dark .padding-bs {
+    padding-bottom: 0px !important;
+    padding-left: 11px !important;
+    margin-bottom: -1px;
+    margin-top: -3px;
+}
+
+.js-media-gif-container {
+    height: 40px !important;
+}
